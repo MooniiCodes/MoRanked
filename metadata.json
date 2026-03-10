@@ -1,0 +1,5 @@
+{
+  "name": "MoRanked",
+  "description": "A competitive ranked clicking game where you chase the moon to climb the ELO ladder.",
+  "requestFramePermissions": []
+}
